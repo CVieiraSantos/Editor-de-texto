@@ -1,5 +1,5 @@
-# Editor-de-texto
-Criação de um editor de texto utilizando a linguagem de programação C#
+# **Editor de texto**
+**Criação de um editor de texto utilizando a linguagem de programação C#**
 # Tecnologias e versões utilizadas
 - **.NET Core 3.1 LTS**
 - **Visual Studio Code (Versão mais recente disponível)**
